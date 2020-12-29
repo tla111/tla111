@@ -11,6 +11,6 @@
 ### 🔭 SE-Q3-ISS
  - Use the requests package to track the location of the International Space Station (ISS)
  - Implemented Python's built-in turtle graphics library to pinpoint Indianna's location
-### 👱 Portfolio
+### 🌐 Portfolio
  - Showcases projects I created and most proud of
  - Display comics to depict my import aspects of my life
