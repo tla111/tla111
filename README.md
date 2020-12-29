@@ -15,5 +15,5 @@
  - Use the requests package to track the location of the International Space Station (ISS)
  - Implements Python's built-in turtle graphics library to pinpoint Indianna's location
 ### 🌐 Portfolio
- - Showcases projects I created and are most proud of
+ - Showcases projects I created this year
  - Displays three comic stories to depict important aspects of my life
