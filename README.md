@@ -1,6 +1,6 @@
-<h1> 🤩 Welcome to My Github Profile 🤩 </h1>
+<h1> 🤩 Welcome to My Github Profile </h1>
 <hr>
-<h2> 👨‍💻 My Projects 👨‍💻 </h2> 
+<h2> 👨‍💻 My Projects </h2> 
 
 ### 🏋️‍♂️ Work-It-Out-2020 
  - This website is to give the user self-accountability to exercise and workout by giving them a platform to keep track of their body mass index and fitness goals
