@@ -1,4 +1,4 @@
-<span> 🤩 <h1> Welcome to My Github Profile </h1> 🤩 </span>
+<h1> 🤩 Welcome to My Github Profile 🤩 </h1>
 -----------------------------------------
 👨‍💻 <h2> My Projects </h2> 👨‍💻
 
