@@ -10,7 +10,7 @@
  - Includes a vision board to post goals you plan to accomplish
 ### 🏡 Investing-In-Investing
  - Compares different material and features of home products to help buyers/investors with their investment decisions
- - Provides rudimentary information on investing in stocks 
+ - Provides common knowledge and tips on how to properly invest in stocks 
 ### 🔭 SE-Q3-ISS
  - Use the requests package to track the location of the International Space Station (ISS)
  - Implements Python's built-in turtle graphics library to pinpoint Indianna's location
