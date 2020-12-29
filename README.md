@@ -17,17 +17,3 @@
 ### 🌐 Portfolio
  - Showcases projects I created and are most proud of
  - Displays three comic stories to depict important aspects of my life
-
-```javascript
-const tim = {
-  code: [HTML,CSS,JavaScript,React,Redux,Express,Node.js,Python,Django,SQL,APIs,Back-end,Web Development,UI Design,Troubleshooting],
-  technologies: [VSCode,Git,MongoDB,Postman,Netlify,Heroku,Bootstrap,Photoshop,Trello],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  interests: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
