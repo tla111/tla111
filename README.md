@@ -18,4 +18,3 @@
  - Showcases projects I created and are most proud of
  - Displays three comic stories to depict important aspects of my life
 
-![Tim's github stats](https://github-readme-stats.vercel.app/api?username=tla111)
