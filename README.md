@@ -1,3 +1,9 @@
+<style>
+ h1 {
+  color: blue;
+ } 
+</style>
+
 <h1> 🤩 Welcome to My Github Profile </h1>
 <hr>
 <h2> 👨‍💻 My Projects </h2> 
