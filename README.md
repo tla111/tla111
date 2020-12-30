@@ -13,7 +13,7 @@
  - Provides common knowledge and tips on how to properly invest in stocks (Coming Soon)
 ### 🔭 SE-Q3-ISS
  - Use the requests package to track the location of the International Space Station (ISS)
- - Implements Python's built-in turtle graphics library to pinpoint Indianna's location
+ - Implement Python's built-in turtle graphics library to pinpoint Indianna's location
 ### 🌐 Portfolio
  - Showcases web applications I created this year
  - Displays three comic stories to depict important aspects of my life
