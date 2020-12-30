@@ -6,14 +6,14 @@
  - This website gives the user self-accountability to exercise and workout by giving them a platform to keep track of their body mass index and fitness goals
  - The web application comprises of a login system, the use of CRUD operations, functionality of a social media platform, and features of a bug tracker application
 ### 🎯 Vision-Myself
- - Utilize chart.js to emphasize the importance and benefits of setting goals
+ - Utilizes chart.js to emphasize the importance and benefits of setting goals
  - Includes a vision board to post goals you plan to accomplish
 ### 🏡 Investing-In-Investing
  - Compares different material and features of home products to help buyers/investors with their investment decisions
  - Provides common knowledge and tips on how to properly invest in stocks (Coming Soon)
 ### 🔭 SE-Q3-ISS
- - Use the requests package to track the location of the International Space Station (ISS)
- - Implement Python's built-in turtle graphics library to pinpoint Indianna's location
+ - Uses the requests package to track the location of the International Space Station (ISS)
+ - Applies Python's built-in turtle graphics library to pinpoint Indianna's location
 ### 🌐 Portfolio
  - Showcases web applications I created this year
  - Displays three comic stories to depict important aspects of my life
