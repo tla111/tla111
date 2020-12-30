@@ -22,7 +22,7 @@
 <h4> I am currently seeking a job that will give me a prolific amount of experience in enhancing my skills as a full stack developer or as a front end developer. Due to my enjoyment for problem solving, I am driven to learn other programming languages and frameworks that are needed to best help grow the company.</h4>
 
 ### Skills:
-HTML | CSS | JavaScript | React | Redux | Express | Node.js | Python | Django | SQL | APIs | Back-end | Web Development | UI Design | Troubleshooting
+HTML | CSS | JavaScript | React | Redux | Express | Node.js | Python | Django | SQL | APIs | Back-End | Web Development | UI Design | Troubleshooting
 
 ### Technologies:
 VSCode | Git | MongoDB | Postman | Netlify | Heroku | Bootstrap | Photoshop | Trello
