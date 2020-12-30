@@ -18,14 +18,14 @@
  - Showcases web applications I created this year
  - Displays three comic stories to depict important aspects of my life
 
+<hr>
+<h5> I am currently seeking a job that will give me a prolific amount of experience in enhancing my skills as a full stack developer or as a front end developer. Due to my enjoyment for problem solving, I am driven to learn other programming languages and frameworks that are needed to best help grow the company.</h5>
 
-I am currently seeking a job that will give me a prolific amount of experience in enhancing my skills as a full stack developer or as a front end developer. Due to my enjoyment for problem solving, I am driven to learn other programming languages and frameworks that are needed to best help grow the company.
-
-Skills:
+### Skills:
 HTML | CSS | JavaScript | React | Redux | Express | Node.js | Python | Django | SQL | APIs | Back-end | Web Development | UI Design | Troubleshooting
 
-Technologies:
+### Technologies:
 VSCode | Git | MongoDB | Postman | Netlify | Heroku | Bootstrap | Photoshop | Trello
 
-Personality:
+### Personality:
 Detail-Oriented | Adaptable | Collaborating | Good Communication Skills | Project Management Skills 
