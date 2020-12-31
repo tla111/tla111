@@ -11,7 +11,7 @@
  - Includes a vision board to post goals you plan to accomplish
  - React; React-Redux; JavaScript, Express; Node.js; APIs; MongoDB; Postman; Bootstrap, Material-UI, CSS for UI Design; Netlify
 ### 🏡 Investing-In-Investing
- - Compares different material and features of home products to help buyers/investors with their investment decisions
+ - Compares different material and features of home furniture to help buyers/investors with their investment decisions
  - Provides common knowledge and tips on how to properly invest in stocks (Coming Soon)
  - React; Django; APIs; SQL; Back-End; Bootstrap & CSS for UI Design; Netlify; Heroku
 ### 🔭 SE-Q3-ISS
