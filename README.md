@@ -12,7 +12,7 @@
  - React; React-Redux; JavaScript, Express; Node.js; APIs; MongoDB; Postman; Bootstrap, Material-UI, CSS for UI Design; Netlify
 ### 🏡 Investing-In-Investing
  - Compares different material and features of home furniture to help buyers/investors with their investment decisions
- - Provides common knowledge and tips on how to properly invest in stocks (Coming Soon)
+ - This web application integrates both React (frontend) and Django (backend)
  - React; Django; APIs; SQL; Back-End; Bootstrap & CSS for UI Design; Netlify; Heroku
 ### 🔭 SE-Q3-ISS
  - Uses the requests package to track the location of the International Space Station (ISS)
