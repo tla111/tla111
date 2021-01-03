@@ -1,5 +1,5 @@
 <h1> 🤩 Welcome to My Github Profile </h1>
-<hr>
+
 <h2> 👨‍💻 My Pinned Projects </h2> 
 
 ### 🏋️‍♂️ Work-It-Out-2020
