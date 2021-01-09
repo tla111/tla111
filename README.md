@@ -14,6 +14,7 @@
  - Compares different material and features of home furniture to help buyers/investors with their investment decisions
  - This web application integrates both React (frontend) and Django (backend)
  - React; Django; APIs; SQL; Back-End; Bootstrap & CSS for UI Design; Netlify; Heroku
+ - To save you time from registering, please log in as: Username: JohnSmith111 | Password: 1234
 ### 🔭 SE-Q3-ISS
  - Uses the requests package to track the location of the International Space Station (ISS)
  - Applies Python's built-in turtle graphics library to pinpoint Indianna's location
