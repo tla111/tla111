@@ -6,7 +6,6 @@
  - This website gives the user self-accountability to exercise and workout by giving them a platform to keep track of their body mass index and fitness goals
  - The web application comprises of a login system, the use of CRUD operations, functionality of a social media platform, and features of a bug tracker application
  - Django; Python; JavaScript; SQL; Bootstrap & CSS for UI Design; Heroku
- - To save you time from registering, please log in as: Username: JohnSmith111 | Password: 1234
 ### 🎯 Vision-Myself
  - Utilizes chart.js to emphasize the importance and benefits of setting goals
  - Includes a vision board to post goals you plan to accomplish
@@ -15,10 +14,10 @@
  - Compares different material and features of home furniture to help buyers/investors with their investment decisions
  - This web application integrates both React (frontend) and Django (backend)
  - React; Django; APIs; SQL; Back-End; Bootstrap & CSS for UI Design; Netlify; Heroku
-### 🔭 SE-Q3-ISS
- - Uses the requests package to track the location of the International Space Station (ISS)
- - Applies Python's built-in turtle graphics library to pinpoint Indianna's location
- - Python
+### 📓 Bullet Journal
+ - Built a bullet journal web application with three team members for our final capstone project
+ - A bullet journal is a combination of a todo list and a diary. It helps you manage your tasks the way you want to
+ - Django; Python; JavaScript; PaperCSS & Bootstrap for UI Design; Heroku
 ### 🌐 Portfolio
  - Showcases web applications I created this year
  - Displays three comic stories to depict important aspects of my life
