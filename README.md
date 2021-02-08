@@ -2,23 +2,23 @@
 
 <h2> 👨‍💻 My Pinned Projects </h2> 
 
-### 🏋️‍♂️  Work-It-Out-2020
+### 🏋️‍♂️ Work-It-Out-2020
  - This website gives the user self-accountability to exercise and workout by giving them a platform to keep track of their body mass index and fitness goals
  - The web application comprises of a login system, the use of CRUD operations, functionality of a social media platform, and features of a bug tracker application
  - Django; Python; JavaScript; SQL; Bootstrap & CSS for UI Design; Heroku
-### 🎯  Vision-Myself
+### 🎯 Vision-Myself
  - Utilizes chart.js to emphasize the importance and benefits of setting goals
  - Includes a vision board to post goals you plan to accomplish
  - React; React-Redux; JavaScript, Express; Node.js; APIs; MongoDB; Postman; Bootstrap, Material-UI, CSS for UI Design; Netlify
-### 🏡  Investing-In-Investing
+### 🏡 Investing-In-Investing
  - Compares different material and features of home furniture to help buyers/investors with their investment decisions
  - This web application integrates both React (frontend) and Django (backend)
  - React; Django; APIs; SQL; Back-End; Bootstrap & CSS for UI Design; Netlify; Heroku
-### 📓  Bullet Journal
+### 📓 Bullet Journal
  - Built a bullet journal web application with three team members for our final capstone project
  - A bullet journal is a combination of a todo list and a diary. It helps you manage your tasks the way you want to
  - Django; Python; JavaScript; PaperCSS & Bootstrap for UI Design; Heroku
-### 🌐  Portfolio
+### 🌐 Portfolio
  - Showcases web applications I created this year
  - Displays three comic stories to depict important aspects of my life
  - React; Bootstrap & CSS for UI Design; Netlify
